@@ -1,0 +1,18 @@
+*.pyc
+
+# data
+*.tar.gz
+data/images
+data/objects
+*.h5
+
+# tf checkpoints
+checkpoint
+*.data-*
+*.index
+*.meta
+
+*.npy
+
+data/
+*.tar
